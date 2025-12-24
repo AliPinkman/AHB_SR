@@ -23,6 +23,12 @@
       "type": "T",
       "rew": 5,
       "active": true
+    },
+    {
+      "id_hash": "7e07e1ced2771aefc364193a44af3e10",
+      "type": "N",
+      "rew": 5,
+      "active": true
     }
   ]
 }
